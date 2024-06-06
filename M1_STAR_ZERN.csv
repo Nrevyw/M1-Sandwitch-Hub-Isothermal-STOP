@@ -1,0 +1,631 @@
+,preload,stiffness,folder,subfolder_i,timestep,date,def_file,config,field_n,field,term,wave,samp,zern
+0,0,nominal,,,,,zero,VNIR,1,on-axis,1,3,4,-0.063733817
+1,0,nominal,,,,,zero,VNIR,1,on-axis,2,3,4,-6.52E-13
+2,0,nominal,,,,,zero,VNIR,1,on-axis,3,3,4,9.57E-14
+3,0,nominal,,,,,zero,VNIR,1,on-axis,4,3,4,0.006140871
+4,0,nominal,,,,,zero,VNIR,1,on-axis,5,3,4,4.08E-12
+5,0,nominal,,,,,zero,VNIR,1,on-axis,6,3,4,-1.21E-12
+6,0,nominal,,,,,zero,VNIR,1,on-axis,7,3,4,1.96E-13
+7,0,nominal,,,,,zero,VNIR,1,on-axis,8,3,4,-4.52E-13
+8,0,nominal,,,,,zero,VNIR,1,on-axis,9,3,4,5.66E-13
+9,0,nominal,,,,,zero,VNIR,1,on-axis,10,3,4,-9.81E-13
+10,0,nominal,,,,,zero,VNIR,1,on-axis,11,3,4,-0.003487552
+11,0,nominal,,,,,zero,VNIR,1,on-axis,12,3,4,1.33E-12
+12,0,nominal,,,,,zero,VNIR,1,on-axis,13,3,4,-2.99E-12
+13,0,nominal,,,,,zero,VNIR,1,on-axis,14,3,4,9.17E-06
+14,0,nominal,,,,,zero,VNIR,1,on-axis,15,3,4,-1.30E-12
+15,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.180856346
+16,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001137646
+17,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.000212202
+18,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.02406078
+19,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.086705351
+20,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.094680971
+21,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000640537
+22,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000405681
+23,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.010982754
+24,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.004351408
+25,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.00103881
+26,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.010884458
+27,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.009946335
+28,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.001479711
+29,100,nominal,SYS_03_(Preload_deformation)\,0,_Timestep_00001,_20231130\,SYS_03_(Preload_deformation)\00_Timestep_00001_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,-0.000177387
+30,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.207069175
+31,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000744786
+32,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.000568962
+33,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.034376823
+34,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.103456812
+35,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.106195705
+36,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000782617
+37,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000252921
+38,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.01519847
+39,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.001852897
+40,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.004520808
+41,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.012136574
+42,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.011847666
+43,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.002328304
+44,200,nominal,SYS_03_(Preload_deformation)\,1,_Timestep_00002,_20231130\,SYS_03_(Preload_deformation)\01_Timestep_00002_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,6.24E-05
+45,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.24215471
+46,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001296537
+47,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002128425
+48,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.04721186
+49,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.114311645
+50,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.111425297
+51,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000778525
+52,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000251333
+53,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.020118568
+54,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000421529
+55,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.008617274
+56,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.012718705
+57,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.013050338
+58,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.002709533
+59,300,nominal,SYS_03_(Preload_deformation)\,2,_Timestep_00003,_20231130\,SYS_03_(Preload_deformation)\02_Timestep_00003_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001718029
+60,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.279688422
+61,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001033659
+62,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002533609
+63,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.06038334
+64,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.110584841
+65,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.131597589
+66,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.00077252
+67,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000230366
+68,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.021616988
+69,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000635741
+70,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.012641434
+71,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.014999955
+72,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.012585911
+73,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.002666585
+74,400,nominal,SYS_03_(Preload_deformation)\,3,_Timestep_00004,_20231130\,SYS_03_(Preload_deformation)\03_Timestep_00004_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002158037
+75,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.319435117
+76,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001074936
+77,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.003246476
+78,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.073951891
+79,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.105059112
+80,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.144491113
+81,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.00076248
+82,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000244002
+83,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.023661112
+84,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000966772
+85,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.016638194
+86,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.016424194
+87,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.011920265
+88,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.002628422
+89,500,nominal,SYS_03_(Preload_deformation)\,4,_Timestep_00005,_20231130\,SYS_03_(Preload_deformation)\04_Timestep_00005_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002172059
+90,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.361056991
+91,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000988251
+92,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.003959731
+93,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.087851994
+94,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.095906243
+95,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.153746838
+96,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000762551
+97,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000229224
+98,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.025970708
+99,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.001211205
+100,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.020607139
+101,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.017407767
+102,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.01083026
+103,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.002730475
+104,600,nominal,SYS_03_(Preload_deformation)\,5,_Timestep_00006,_20231130\,SYS_03_(Preload_deformation)\05_Timestep_00006_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.00212924
+105,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.402919848
+106,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001230477
+107,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.003488308
+108,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.101532583
+109,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.075995614
+110,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.149737874
+111,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000833946
+112,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000250468
+113,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.026830715
+114,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.001169714
+115,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.024444322
+116,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.016933834
+117,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.008624452
+118,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.003309717
+119,700,nominal,SYS_03_(Preload_deformation)\,6,_Timestep_00007,_20231130\,SYS_03_(Preload_deformation)\06_Timestep_00007_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001902916
+120,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.443190005
+121,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001243104
+122,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.003237245
+123,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.114486874
+124,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.063229778
+125,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.13904876
+126,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000864311
+127,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000248787
+128,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.02708108
+129,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.001099616
+130,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.028079224
+131,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.01581744
+132,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.007255268
+133,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.004165295
+134,800,nominal,SYS_03_(Preload_deformation)\,10,_Timestep_00008,_20231130\,SYS_03_(Preload_deformation)\10_Timestep_00008_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001987732
+135,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.482526048
+136,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001197149
+137,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.003016156
+138,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.127001464
+139,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.056870014
+140,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.134338715
+141,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000888485
+142,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000241178
+143,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.027183692
+144,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.00101564
+145,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.031605489
+146,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.015409803
+147,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.006548611
+148,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.00485078
+149,900,nominal,SYS_03_(Preload_deformation)\,14,_Timestep_00009,_20231130\,SYS_03_(Preload_deformation)\14_Timestep_00009_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002202235
+150,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.520785507
+151,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001336948
+152,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002930556
+153,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.13909063
+154,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.051343786
+155,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.134411511
+156,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000900975
+157,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.00025447
+158,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.027449359
+159,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000934019
+160,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.035032624
+161,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.015473698
+162,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.005928141
+163,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.005329815
+164,1000,nominal,SYS_03_(Preload_deformation)\,18,_Timestep_00010,_20231130\,SYS_03_(Preload_deformation)\18_Timestep_00010_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002346323
+165,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.558854471
+166,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001422169
+167,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.00278851
+168,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.151093782
+169,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.045906562
+170,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.135714682
+171,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000923016
+172,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000262061
+173,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.027634771
+174,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000866269
+175,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.038442071
+176,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.015661246
+177,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.005309605
+178,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.005769453
+179,1100,nominal,SYS_03_(Preload_deformation)\,22,_Timestep_00011,_20231130\,SYS_03_(Preload_deformation)\22_Timestep_00011_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002395
+180,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.596804411
+181,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001443505
+182,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002670843
+183,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.163049028
+184,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.041995128
+185,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.139420201
+186,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000950596
+187,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000264917
+188,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.028145685
+189,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000825386
+190,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.041840993
+191,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.016111778
+192,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.00486309
+193,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.006258189
+194,1200,nominal,SYS_03_(Preload_deformation)\,26,_Timestep_00012,_20231130\,SYS_03_(Preload_deformation)\26_Timestep_00012_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002391359
+195,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.634630935
+196,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001477685
+197,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002611247
+198,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.174957625
+199,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.038599312
+200,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.142624733
+201,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000967336
+202,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000274571
+203,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.028578295
+204,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000990212
+205,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.045228317
+206,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.016503077
+207,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.004474709
+208,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.006743105
+209,1300,nominal,SYS_03_(Preload_deformation)\,30,_Timestep_00013,_20231130\,SYS_03_(Preload_deformation)\30_Timestep_00013_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.00233762
+210,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.67243995
+211,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001617376
+212,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002574989
+213,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.186859627
+214,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.03529329
+215,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.146629925
+216,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.0009666
+217,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000288163
+218,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.028639851
+219,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000869793
+220,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.04861451
+221,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.016983041
+222,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.004096022
+223,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.007271005
+224,1400,nominal,SYS_03_(Preload_deformation)\,34,_Timestep_00014,_20231130\,SYS_03_(Preload_deformation)\34_Timestep_00014_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.002186185
+225,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.710284657
+226,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001656754
+227,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.002434351
+228,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.198765278
+229,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.033572449
+230,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.149813989
+231,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000962044
+232,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000289413
+233,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.02837076
+234,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000810981
+235,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.052000452
+236,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.017366053
+237,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.003900875
+238,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.007731313
+239,1500,nominal,SYS_03_(Preload_deformation)\,38,_Timestep_00015,_20231130\,SYS_03_(Preload_deformation)\38_Timestep_00015_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001952456
+240,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.74816029
+241,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001562082
+242,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.00204829
+243,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.210668879
+244,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.031289583
+245,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.152833196
+246,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000970038
+247,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000278221
+248,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.027503348
+249,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000791301
+250,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.055385498
+251,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.017728848
+252,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.003639437
+253,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.008096479
+254,1600,nominal,SYS_03_(Preload_deformation)\,42,_Timestep_00016,_20231130\,SYS_03_(Preload_deformation)\42_Timestep_00016_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.00183868
+255,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.786001927
+256,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001502547
+257,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001682362
+258,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.222560077
+259,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.028955114
+260,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.155617211
+261,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000969065
+262,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000274504
+263,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.02674217
+264,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000738737
+265,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.058766593
+266,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.018063914
+267,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.003371864
+268,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.00845924
+269,1700,nominal,SYS_03_(Preload_deformation)\,46,_Timestep_00017,_20231130\,SYS_03_(Preload_deformation)\46_Timestep_00017_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001744418
+270,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.823842143
+271,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001439583
+272,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001439779
+273,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.234449671
+274,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.027243776
+275,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.159154233
+276,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000960754
+277,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000272555
+278,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.025908369
+279,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000860038
+280,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.062147878
+281,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.018485177
+282,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.003175841
+283,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.00883451
+284,1800,nominal,SYS_03_(Preload_deformation)\,50,_Timestep_00018,_20231130\,SYS_03_(Preload_deformation)\50_Timestep_00018_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001706749
+285,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.861712974
+286,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001503725
+287,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001119327
+288,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.246340811
+289,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.027164346
+290,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.16353479
+291,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000955966
+292,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000281472
+293,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.025001283
+294,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000896108
+295,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.06552934
+296,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.019002402
+297,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.003168908
+298,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.00913561
+299,1900,nominal,SYS_03_(Preload_deformation)\,54,_Timestep_00019,_20231130\,SYS_03_(Preload_deformation)\54_Timestep_00019_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001783717
+300,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.899540266
+301,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001659985
+302,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001269301
+303,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.258210885
+304,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.02635052
+305,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.166779584
+306,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,0.000918958
+307,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000292412
+308,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.024785904
+309,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000788019
+310,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.068907368
+311,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.019396047
+312,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.003074508
+313,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.009413497
+314,2000,nominal,SYS_03_(Preload_deformation)\,58,_Timestep_00020,_20231130\,SYS_03_(Preload_deformation)\58_Timestep_00020_20231130\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.001897085
+315,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,1,3,4,-0.206689064
+316,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,2,3,4,0.000894706
+317,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,3,3,4,-0.001072109
+318,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,4,3,4,-0.038897792
+319,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,5,3,4,-0.006812409
+320,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,6,3,4,-0.002156552
+321,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,7,3,4,-0.000114848
+322,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,8,3,4,0.000176279
+323,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,9,3,4,0.000101273
+324,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,10,3,4,-0.000258399
+325,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,11,3,4,0.001432171
+326,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,12,3,4,0.00036171
+327,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,13,3,4,0.001088985
+328,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,14,3,4,3.27E-05
+329,0,"No M1 Relief, 1/10x Retainer",,,,,zero,VNIR,1,on-axis,15,3,4,0.000160734
+330,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.188270203
+331,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000159748
+332,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.000763198
+333,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.027641391
+334,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.006464458
+335,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.001354419
+336,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-7.16E-05
+337,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,7.63E-05
+338,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,0.000256829
+339,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,0.000227261
+340,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,-0.000607219
+341,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.00023041
+342,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.000982778
+343,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,8.11E-05
+344,100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,0,_Timestep_00001,_20231210\,SYS_20_(Preload_deformation)\00_Timestep_00001_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000155781
+345,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.206689065
+346,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000876508
+347,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001072109
+348,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.038897792
+349,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.006812409
+350,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,-0.002156552
+351,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000114848
+352,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.00017628
+353,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,0.000101273
+354,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000258399
+355,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.001432171
+356,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,0.00036171
+357,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.001088985
+358,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,3.27E-05
+359,200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,1,_Timestep_00002,_20231210\,SYS_20_(Preload_deformation)\01_Timestep_00002_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000160734
+360,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.230342624
+361,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001601487
+362,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001384682
+363,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.051877652
+364,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.004888363
+365,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,-0.000323315
+366,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000155681
+367,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000314631
+368,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-9.53E-06
+369,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000153478
+370,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.003685411
+371,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,7.53E-05
+372,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.000831348
+373,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,2.34E-05
+374,300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,2,_Timestep_00003,_20231210\,SYS_20_(Preload_deformation)\02_Timestep_00003_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000145875
+375,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.257549188
+376,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000677074
+377,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001728276
+378,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.065790543
+379,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.002739564
+380,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.002179758
+381,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000203934
+382,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000174421
+383,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000103782
+384,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-5.47E-06
+385,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.006005758
+386,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000389797
+387,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.000505919
+388,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-3.04E-05
+389,400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,3,_Timestep_00004,_20231210\,SYS_20_(Preload_deformation)\03_Timestep_00004_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000104058
+390,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.285235163
+391,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.001014984
+392,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.00204992
+393,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.079479823
+394,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.002271905
+395,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.004568542
+396,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000252972
+397,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000181638
+398,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000250028
+399,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000317033
+400,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.008259982
+401,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000767364
+402,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.000396191
+403,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-5.44E-05
+404,500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,4,_Timestep_00005,_20231210\,SYS_20_(Preload_deformation)\04_Timestep_00005_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000155261
+405,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.314078138
+406,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000496922
+407,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001802769
+408,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.093109365
+409,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.002457363
+410,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.007909064
+411,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000243568
+412,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,3.24E-05
+413,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000252067
+414,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-3.64E-05
+415,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.010449887
+416,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001337766
+417,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.000410025
+418,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,1.06E-05
+419,600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,5,_Timestep_00006,_20231210\,SYS_20_(Preload_deformation)\05_Timestep_00006_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000197184
+420,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.343929306
+421,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000389365
+422,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.00136663
+423,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.106800553
+424,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.002471519
+425,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.007470576
+426,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000198165
+427,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,2.00E-05
+428,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000257669
+429,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000201863
+430,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.012602722
+431,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001287705
+432,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.00040337
+433,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-4.96E-05
+434,700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,6,_Timestep_00007,_20231210\,SYS_20_(Preload_deformation)\06_Timestep_00007_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000201159
+435,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.372672174
+436,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.00070564
+437,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.001022578
+438,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.119614223
+439,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.00163638
+440,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.008063294
+441,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000173098
+442,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,-2.70E-05
+443,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000192219
+444,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000175606
+445,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.014592935
+446,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001398087
+447,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,0.000242143
+448,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-2.49E-05
+449,800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,10,_Timestep_00008,_20231210\,SYS_20_(Preload_deformation)\10_Timestep_00008_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000181533
+450,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.400493587
+451,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000948509
+452,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.000888169
+453,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.131722261
+454,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.000714279
+455,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.007297502
+456,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000170799
+457,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,-6.64E-05
+458,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000131236
+459,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000174011
+460,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.016450746
+461,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001271663
+462,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,4.92E-05
+463,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,3.16E-06
+464,900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,14,_Timestep_00009,_20231210\,SYS_20_(Preload_deformation)\14_Timestep_00009_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000150305
+465,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.426567474
+466,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000906596
+467,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.000621718
+468,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.142842795
+469,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.000772051
+470,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.006197916
+471,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-0.000140625
+472,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,-6.23E-05
+473,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000111004
+474,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000159103
+475,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.018137239
+476,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001088059
+477,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,3.01E-05
+478,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-4.04E-06
+479,1000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,18,_Timestep_00010,_20231210\,SYS_20_(Preload_deformation)\18_Timestep_00010_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000125445
+480,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.451430029
+481,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.00074466
+482,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-0.000278866
+483,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.153362531
+484,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.000353934
+485,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.005483153
+486,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-9.62E-05
+487,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,-4.61E-05
+488,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000123437
+489,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000192564
+490,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.019726437
+491,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000976116
+492,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-5.71E-05
+493,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-8.00E-06
+494,1100,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,22,_Timestep_00011,_20231210\,SYS_20_(Preload_deformation)\22_Timestep_00011_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000114468
+495,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.47519383
+496,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000502231
+497,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,-5.81E-05
+498,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.163401107
+499,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.000382486
+500,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.004786784
+501,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-6.81E-05
+502,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,-1.87E-05
+503,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000137578
+504,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000220117
+505,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.021241304
+506,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000877112
+507,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-7.01E-05
+508,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-4.93E-05
+509,1200,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,26,_Timestep_00012,_20231210\,SYS_20_(Preload_deformation)\26_Timestep_00012_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000116329
+510,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.498641389
+511,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000337332
+512,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.00021382
+513,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.17329435
+514,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.00050776
+515,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.004585811
+516,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-2.66E-05
+517,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,5.79E-06
+518,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000152098
+519,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000216868
+520,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.022733411
+521,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000858569
+522,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-5.83E-05
+523,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-9.86E-05
+524,1300,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,30,_Timestep_00013,_20231210\,SYS_20_(Preload_deformation)\30_Timestep_00013_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000117215
+525,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.521948199
+526,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000267505
+527,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.000343165
+528,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.183121266
+529,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.000461905
+530,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.004606622
+531,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,-5.34E-06
+532,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,1.91E-05
+533,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000157577
+534,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000192793
+535,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.024214913
+536,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000873478
+537,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-7.16E-05
+538,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.000151415
+539,1400,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,34,_Timestep_00014,_20231210\,SYS_20_(Preload_deformation)\34_Timestep_00014_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000119751
+540,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.545128171
+541,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,-0.000178231
+542,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.00041801
+543,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.19288686
+544,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-0.000180872
+545,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.00474397
+546,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,7.15E-06
+547,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,3.88E-05
+548,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000158531
+549,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000167109
+550,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.025686783
+551,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000907512
+552,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-0.00011522
+553,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.00019605
+554,1500,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,38,_Timestep_00015,_20231210\,SYS_20_(Preload_deformation)\38_Timestep_00015_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000124346
+555,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.568207351
+556,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,5.06E-05
+557,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.000453363
+558,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.202601376
+559,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,-8.61E-06
+560,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.004841139
+561,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,1.33E-05
+562,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,7.08E-05
+563,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.00015773
+564,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000158417
+565,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.027150849
+566,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000937209
+567,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-0.000143918
+568,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.000231575
+569,1600,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,42,_Timestep_00016,_20231210\,SYS_20_(Preload_deformation)\42_Timestep_00016_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.0001299
+570,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.591282531
+571,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000323364
+572,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.000526325
+573,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.212310578
+574,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,0.000200146
+575,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.004907964
+576,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,3.14E-05
+577,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000107413
+578,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000178383
+579,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000157361
+580,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.028613798
+581,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000959923
+582,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-0.000180002
+583,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.000265796
+584,1700,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,46,_Timestep_00017,_20231210\,SYS_20_(Preload_deformation)\46_Timestep_00017_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000138811
+585,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.614298907
+586,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000514452
+587,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.00054729
+588,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.221991708
+589,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,0.00033611
+590,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.005077692
+591,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,3.66E-05
+592,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000137147
+593,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000203494
+594,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000170713
+595,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.030072791
+596,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.000999085
+597,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-0.000206457
+598,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.00029924
+599,1800,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,50,_Timestep_00018,_20231210\,SYS_20_(Preload_deformation)\50_Timestep_00018_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000145595
+600,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.637276622
+601,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000805024
+602,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.000631948
+603,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.231656095
+604,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,0.000338748
+605,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.005152942
+606,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,4.93E-05
+607,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000173358
+608,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000210765
+609,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000186611
+610,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.031529327
+611,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001016105
+612,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-0.000214178
+613,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.000335535
+614,1900,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,54,_Timestep_00019,_20231210\,SYS_20_(Preload_deformation)\54_Timestep_00019_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000151265
+615,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,1,3,4,-0.660238998
+616,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,2,3,4,0.000972509
+617,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,3,3,4,0.000742299
+618,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,4,3,4,-0.241313314
+619,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,5,3,4,0.000372538
+620,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,6,3,4,0.005213273
+621,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,7,3,4,6.36E-05
+622,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,8,3,4,0.000196956
+623,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,9,3,4,-0.000214299
+624,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,10,3,4,-0.000204773
+625,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,11,3,4,0.032984582
+626,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,12,3,4,-0.001031831
+627,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,13,3,4,-0.000227469
+628,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,14,3,4,-0.000371538
+629,2000,"No M1 Relief, 1/10x Retainer",SYS_20_(Preload_deformation)\,58,_Timestep_00020,_20231210\,SYS_20_(Preload_deformation)\58_Timestep_00020_20231210\Surface_00_Deformation.txt,VNIR,1,on-axis,15,3,4,0.000156118
